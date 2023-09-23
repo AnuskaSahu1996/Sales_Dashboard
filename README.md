@@ -28,11 +28,11 @@ Page 4:
 
 Page 5:
 
--Show a map of Sales by State.
+- Show a map of Sales by State.
 
 
 Page 6:
 
--On the Dashboard Page Combine The Page 1 Visuals, Page 2, Page 3, Page 4, and Page 5 into this and Create one dashboard and Show the insights 
+ - On the Dashboard Page Combine The Page 1 Visuals, Page 2, Page 3, Page 4, and Page 5 into this and Create one dashboard and Show the insights 
 
 
