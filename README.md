@@ -2,7 +2,7 @@
 
 Page 1:
 
--show a visual of the Customer Segment with total Sales.
+- show a visual of the Customer Segment with total Sales.
  
 - show a Visual of  Sales by Month.
 
@@ -14,7 +14,8 @@ Page 2:
 
 
 Page 3:
-	a. On Page 3 Show a Visual of Sales Vs Profit Daily
+
+ - Show a Visual of Sales Vs Profit Daily
 
 
 Page 4:
